@@ -23,7 +23,7 @@ app.get('/name/:id',(req,res)=>{
 //         age:age
 //     })
 // })
-
+//demo
 app.listen(3000,()=>{
     console.log("express 运行成功")
 })
